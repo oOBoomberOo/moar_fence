@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=boomber.moar_fence.custom_fence] at @s unless block ~ ~ ~ nether_brick_fence run function boomber:moar_fence/break
+execute as @e[type=armor_stand,tag=boomber.moar_fence.custom_fence] at @s if block ~ ~ ~ nether_brick_fence run function boomber:moar_fence/models/get
