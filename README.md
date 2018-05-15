@@ -1,4 +1,4 @@
 # Moar Fence
-Add more fence and probably fence gate in the future
+Add more fence and fence gate to minecraft
 
 To download page: https://boombergamer.weebly.com/moar-fence.html
