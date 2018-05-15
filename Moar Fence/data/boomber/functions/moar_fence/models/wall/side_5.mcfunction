@@ -1,0 +1,2 @@
+execute as @s if block ~ ~ ~ cobblestone_wall store success score @s bb.success run function boomber:moar_fence/models/wall/four_side
+execute as @s if block ~ ~ ~ cobblestone_wall run data merge entity @s {Pose:{Head:[0.0f,0.0f]}}

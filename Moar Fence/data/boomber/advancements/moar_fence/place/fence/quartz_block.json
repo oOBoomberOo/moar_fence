@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"place": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:nether_brick_fence",
+					"nbt": "{boomber:{moar_fence_id:\"quartz_block\"}}"
+				}
+			}
+		}
+	},
+	"parent": "boomber:moar_fence/place/root",
+	"rewards": {
+		"function": "boomber:moar_fence/place/place_fence"
+	}
+}

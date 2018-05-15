@@ -5,6 +5,7 @@
 		"minecraft:birch_fence",
 		"minecraft:jungle_fence",
 		"minecraft:acacia_fence",
-		"minecraft:dark_oak_fence"
+		"minecraft:dark_oak_fence",
+		"minecraft:nether_brick_fence"
 	]
 }
