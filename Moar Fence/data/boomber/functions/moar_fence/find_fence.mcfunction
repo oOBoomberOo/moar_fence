@@ -1,3 +1,0 @@
-execute as @s run scoreboard players remove @s bb.distance 1
-execute as @s positioned ~0 ~0 ~0 align xyz positioned ~0.5 ~0.5 ~0.5 if block ~ ~ ~ nether_brick_fence unless entity @e[type=armor_stand,tag=boomber.moar_fence.custom_fence,distance=..0.8] run function boomber:moar_fence/found_fence/found_fence
-execute as @s[scores={bb.distance=1..}] anchored feet positioned ^ ^ ^0.1 run function boomber:moar_fence/find_fence
