@@ -1,6 +1,7 @@
 scoreboard objectives add bb.distance dummy
 scoreboard objectives add bb.success dummy
 scoreboard objectives add bb.direction dummy
+scoreboard objectives add bb.direction_up dummy
 scoreboard objectives add bb.pre_direction dummy
 scoreboard objectives add bb.dt_result dummy
 scoreboard objectives add bb.open dummy

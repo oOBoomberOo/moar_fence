@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"group": "custom_fence_gate",
+	"pattern": [
+		"#S#",
+		"#S#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:acacia_log"
+		},
+		"S": {
+			"tag": "boomber:moar_fence/fence_gate"
+		}
+	},
+	"result": {
+		"item": "minecraft:dark_oak_fence_gate",
+		"count": 1
+	}
+}
