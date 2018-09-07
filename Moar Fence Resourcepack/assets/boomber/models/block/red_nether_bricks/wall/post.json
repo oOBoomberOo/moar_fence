@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/wall/post",
+    "textures": {
+        "texture": "block/red_nether_bricks"
+    }
+}

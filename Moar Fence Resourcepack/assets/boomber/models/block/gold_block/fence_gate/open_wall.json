@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/fence_gate/open_wall",
+    "textures": {
+        "texture": "block/gold_block"
+    }
+}

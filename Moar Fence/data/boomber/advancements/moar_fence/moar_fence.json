@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": "Moar fence v2.2",
+		"title": "Moar fence v2.5",
 		"description": "",
 		"icon": {
 			"item": "minecraft:oak_fence"
@@ -8,7 +8,7 @@
 		"show_toast": false,
 		"announce_to_chat": false
 	},
-	"parent": "boomber:root",
+	"parent": "boomber:boomber",
 	"criteria": {
 		"trigger": {
 			"trigger": "minecraft:tick"

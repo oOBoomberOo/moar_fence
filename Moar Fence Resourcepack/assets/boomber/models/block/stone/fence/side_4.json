@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/fence/side_4",
+    "textures": {
+        "texture": "block/stone"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/wall/side_4",
+    "textures": {
+        "texture": "block/oak_log"
+    }
+}

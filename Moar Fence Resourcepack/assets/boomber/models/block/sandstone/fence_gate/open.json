@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/fence_gate/open",
+    "textures": {
+        "texture": "block/sandstone"
+    }
+}

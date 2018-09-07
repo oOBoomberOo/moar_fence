@@ -7,7 +7,7 @@
 	],
 	"key": {
 		"#": {
-			"item": "minecraft:iron_ingot"
+			"item": "minecraft:iron_block"
 		},
 		"S": {
 			"tag": "boomber:moar_fence/wall"

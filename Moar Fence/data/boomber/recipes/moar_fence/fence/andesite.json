@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"group": "custom_fence",
+	"pattern": [
+		"#S#",
+		"#S#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:andesite"
+		},
+		"S": {
+			"tag": "boomber:moar_fence/fence"
+		}
+	},
+	"result": {
+		"item": "minecraft:oak_fence",
+		"count": 2
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/wall/side_2_up",
+    "textures": {
+        "texture": "block/red_nether_bricks"
+    }
+}

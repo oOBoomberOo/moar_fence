@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/fence/side_5",
+    "textures": {
+        "texture": "block/purpur_block"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/fence_gate/open_wall",
+    "textures": {
+        "texture": "block/acacia_log"
+    }
+}

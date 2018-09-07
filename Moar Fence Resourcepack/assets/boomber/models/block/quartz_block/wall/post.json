@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/wall/post",
+    "textures": {
+        "texture": "block/quartz_block"
+    }
+}

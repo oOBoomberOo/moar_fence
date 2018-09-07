@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/fence/post",
+    "textures": {
+        "texture": "block/coal_block"
+    }
+}

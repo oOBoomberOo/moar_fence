@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:block/fence_gate/close_wall",
+    "textures": {
+        "texture": "block/dark_prismarine"
+    }
+}

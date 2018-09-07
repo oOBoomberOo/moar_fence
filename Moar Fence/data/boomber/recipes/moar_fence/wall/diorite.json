@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"group": "custom_wall",
+	"pattern": [
+		"#S#",
+		"#S#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:diorite"
+		},
+		"S": {
+			"tag": "boomber:moar_fence/wall"
+		}
+	},
+	"result": {
+		"item": "minecraft:mossy_cobblestone_wall",
+		"count": 2
+	}
+}
