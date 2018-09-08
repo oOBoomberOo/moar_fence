@@ -8,6 +8,3 @@ scoreboard objectives add bb.open dummy
 scoreboard objectives add bb.in_wall dummy
 
 scoreboard players set @a bb.success 0
-
-gamerule commandBlockOutput false
-gamerule logAdminCommands false
