@@ -1,20 +1,19 @@
 {
 	"type": "crafting_shaped",
-	"group": "custom_wall",
 	"pattern": [
-		"#S#",
-		"#S#"
+		"@#@",
+		"@#@"
 	],
 	"key": {
+		"@": {
+			"tag": "boomber:moar_fence/walls"
+		},
 		"#": {
 			"item": "minecraft:prismarine_bricks"
-		},
-		"S": {
-			"tag": "boomber:moar_fence/wall"
 		}
 	},
 	"result": {
-		"item": "minecraft:mossy_cobblestone_wall",
-		"count": 2
+		"item": "minecraft:wall",
+		"count": 3
 	}
 }

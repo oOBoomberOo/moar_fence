@@ -1,6 +1,0 @@
-{
-    "parent": "boomber:block/wall/side_1",
-    "textures": {
-        "texture": "block/gold_block"
-    }
-}

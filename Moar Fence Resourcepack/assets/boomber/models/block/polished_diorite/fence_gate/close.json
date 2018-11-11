@@ -1,6 +1,0 @@
-{
-    "parent": "boomber:block/fence_gate/close",
-    "textures": {
-        "texture": "block/polished_diorite"
-    }
-}

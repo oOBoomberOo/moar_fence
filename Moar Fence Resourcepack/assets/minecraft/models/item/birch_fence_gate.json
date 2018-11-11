@@ -1,0 +1,1517 @@
+{
+  "parent": "block/birch_fence_gate",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 8080000
+      },
+      "model": "boomber:moar_fence/block/oak_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080001
+      },
+      "model": "boomber:moar_fence/block/oak_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080002
+      },
+      "model": "boomber:moar_fence/block/oak_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080003
+      },
+      "model": "boomber:moar_fence/block/oak_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080007
+      },
+      "model": "boomber:moar_fence/block/spruce_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080008
+      },
+      "model": "boomber:moar_fence/block/spruce_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080009
+      },
+      "model": "boomber:moar_fence/block/spruce_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080010
+      },
+      "model": "boomber:moar_fence/block/spruce_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080014
+      },
+      "model": "boomber:moar_fence/block/birch_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080015
+      },
+      "model": "boomber:moar_fence/block/birch_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080016
+      },
+      "model": "boomber:moar_fence/block/birch_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080017
+      },
+      "model": "boomber:moar_fence/block/birch_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080021
+      },
+      "model": "boomber:moar_fence/block/jungle_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080022
+      },
+      "model": "boomber:moar_fence/block/jungle_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080023
+      },
+      "model": "boomber:moar_fence/block/jungle_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080024
+      },
+      "model": "boomber:moar_fence/block/jungle_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080028
+      },
+      "model": "boomber:moar_fence/block/acacia_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080029
+      },
+      "model": "boomber:moar_fence/block/acacia_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080030
+      },
+      "model": "boomber:moar_fence/block/acacia_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080031
+      },
+      "model": "boomber:moar_fence/block/acacia_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080035
+      },
+      "model": "boomber:moar_fence/block/dark_oak_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080036
+      },
+      "model": "boomber:moar_fence/block/dark_oak_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080037
+      },
+      "model": "boomber:moar_fence/block/dark_oak_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080038
+      },
+      "model": "boomber:moar_fence/block/dark_oak_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080042
+      },
+      "model": "boomber:moar_fence/block/stripped_oak_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080043
+      },
+      "model": "boomber:moar_fence/block/stripped_oak_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080044
+      },
+      "model": "boomber:moar_fence/block/stripped_oak_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080045
+      },
+      "model": "boomber:moar_fence/block/stripped_oak_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080049
+      },
+      "model": "boomber:moar_fence/block/stripped_spruce_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080050
+      },
+      "model": "boomber:moar_fence/block/stripped_spruce_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080051
+      },
+      "model": "boomber:moar_fence/block/stripped_spruce_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080052
+      },
+      "model": "boomber:moar_fence/block/stripped_spruce_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080056
+      },
+      "model": "boomber:moar_fence/block/stripped_birch_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080057
+      },
+      "model": "boomber:moar_fence/block/stripped_birch_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080058
+      },
+      "model": "boomber:moar_fence/block/stripped_birch_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080059
+      },
+      "model": "boomber:moar_fence/block/stripped_birch_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080063
+      },
+      "model": "boomber:moar_fence/block/stripped_jungle_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080064
+      },
+      "model": "boomber:moar_fence/block/stripped_jungle_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080065
+      },
+      "model": "boomber:moar_fence/block/stripped_jungle_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080066
+      },
+      "model": "boomber:moar_fence/block/stripped_jungle_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080070
+      },
+      "model": "boomber:moar_fence/block/stripped_acacia_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080071
+      },
+      "model": "boomber:moar_fence/block/stripped_acacia_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080072
+      },
+      "model": "boomber:moar_fence/block/stripped_acacia_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080073
+      },
+      "model": "boomber:moar_fence/block/stripped_acacia_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080077
+      },
+      "model": "boomber:moar_fence/block/stripped_dark_oak_log/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080078
+      },
+      "model": "boomber:moar_fence/block/stripped_dark_oak_log/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080079
+      },
+      "model": "boomber:moar_fence/block/stripped_dark_oak_log/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080080
+      },
+      "model": "boomber:moar_fence/block/stripped_dark_oak_log/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080084
+      },
+      "model": "boomber:moar_fence/block/coal_block/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080085
+      },
+      "model": "boomber:moar_fence/block/coal_block/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080086
+      },
+      "model": "boomber:moar_fence/block/coal_block/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080087
+      },
+      "model": "boomber:moar_fence/block/coal_block/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080091
+      },
+      "model": "boomber:moar_fence/block/iron_block/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080092
+      },
+      "model": "boomber:moar_fence/block/iron_block/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080093
+      },
+      "model": "boomber:moar_fence/block/iron_block/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080094
+      },
+      "model": "boomber:moar_fence/block/iron_block/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080098
+      },
+      "model": "boomber:moar_fence/block/gold_block/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080099
+      },
+      "model": "boomber:moar_fence/block/gold_block/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080100
+      },
+      "model": "boomber:moar_fence/block/gold_block/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080101
+      },
+      "model": "boomber:moar_fence/block/gold_block/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080105
+      },
+      "model": "boomber:moar_fence/block/redstone_block/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080106
+      },
+      "model": "boomber:moar_fence/block/redstone_block/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080107
+      },
+      "model": "boomber:moar_fence/block/redstone_block/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080108
+      },
+      "model": "boomber:moar_fence/block/redstone_block/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080112
+      },
+      "model": "boomber:moar_fence/block/diamond_block/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080113
+      },
+      "model": "boomber:moar_fence/block/diamond_block/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080114
+      },
+      "model": "boomber:moar_fence/block/diamond_block/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080115
+      },
+      "model": "boomber:moar_fence/block/diamond_block/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080119
+      },
+      "model": "boomber:moar_fence/block/emerald_block/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080120
+      },
+      "model": "boomber:moar_fence/block/emerald_block/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080121
+      },
+      "model": "boomber:moar_fence/block/emerald_block/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080122
+      },
+      "model": "boomber:moar_fence/block/emerald_block/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080126
+      },
+      "model": "boomber:moar_fence/block/prismarine/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080127
+      },
+      "model": "boomber:moar_fence/block/prismarine/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080128
+      },
+      "model": "boomber:moar_fence/block/prismarine/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080129
+      },
+      "model": "boomber:moar_fence/block/prismarine/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080133
+      },
+      "model": "boomber:moar_fence/block/prismarine_bricks/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080134
+      },
+      "model": "boomber:moar_fence/block/prismarine_bricks/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080135
+      },
+      "model": "boomber:moar_fence/block/prismarine_bricks/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080136
+      },
+      "model": "boomber:moar_fence/block/prismarine_bricks/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080140
+      },
+      "model": "boomber:moar_fence/block/dark_prismarine/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080141
+      },
+      "model": "boomber:moar_fence/block/dark_prismarine/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080142
+      },
+      "model": "boomber:moar_fence/block/dark_prismarine/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080143
+      },
+      "model": "boomber:moar_fence/block/dark_prismarine/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080147
+      },
+      "model": "boomber:moar_fence/block/sandstone/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080148
+      },
+      "model": "boomber:moar_fence/block/sandstone/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080149
+      },
+      "model": "boomber:moar_fence/block/sandstone/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080150
+      },
+      "model": "boomber:moar_fence/block/sandstone/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080154
+      },
+      "model": "boomber:moar_fence/block/cut_sandstone/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080155
+      },
+      "model": "boomber:moar_fence/block/cut_sandstone/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080156
+      },
+      "model": "boomber:moar_fence/block/cut_sandstone/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080157
+      },
+      "model": "boomber:moar_fence/block/cut_sandstone/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080161
+      },
+      "model": "boomber:moar_fence/block/chiseled_sandstone/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080162
+      },
+      "model": "boomber:moar_fence/block/chiseled_sandstone/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080163
+      },
+      "model": "boomber:moar_fence/block/chiseled_sandstone/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080164
+      },
+      "model": "boomber:moar_fence/block/chiseled_sandstone/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080168
+      },
+      "model": "boomber:moar_fence/block/red_sandstone/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080169
+      },
+      "model": "boomber:moar_fence/block/red_sandstone/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080170
+      },
+      "model": "boomber:moar_fence/block/red_sandstone/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080171
+      },
+      "model": "boomber:moar_fence/block/red_sandstone/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080175
+      },
+      "model": "boomber:moar_fence/block/cut_red_sandstone/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080176
+      },
+      "model": "boomber:moar_fence/block/cut_red_sandstone/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080177
+      },
+      "model": "boomber:moar_fence/block/cut_red_sandstone/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080178
+      },
+      "model": "boomber:moar_fence/block/cut_red_sandstone/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080182
+      },
+      "model": "boomber:moar_fence/block/chiseled_red_sandstone/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080183
+      },
+      "model": "boomber:moar_fence/block/chiseled_red_sandstone/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080184
+      },
+      "model": "boomber:moar_fence/block/chiseled_red_sandstone/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080185
+      },
+      "model": "boomber:moar_fence/block/chiseled_red_sandstone/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080189
+      },
+      "model": "boomber:moar_fence/block/terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080190
+      },
+      "model": "boomber:moar_fence/block/terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080191
+      },
+      "model": "boomber:moar_fence/block/terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080192
+      },
+      "model": "boomber:moar_fence/block/terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080196
+      },
+      "model": "boomber:moar_fence/block/white_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080197
+      },
+      "model": "boomber:moar_fence/block/white_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080198
+      },
+      "model": "boomber:moar_fence/block/white_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080199
+      },
+      "model": "boomber:moar_fence/block/white_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080203
+      },
+      "model": "boomber:moar_fence/block/orange_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080204
+      },
+      "model": "boomber:moar_fence/block/orange_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080205
+      },
+      "model": "boomber:moar_fence/block/orange_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080206
+      },
+      "model": "boomber:moar_fence/block/orange_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080210
+      },
+      "model": "boomber:moar_fence/block/magenta_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080211
+      },
+      "model": "boomber:moar_fence/block/magenta_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080212
+      },
+      "model": "boomber:moar_fence/block/magenta_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080213
+      },
+      "model": "boomber:moar_fence/block/magenta_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080217
+      },
+      "model": "boomber:moar_fence/block/light_blue_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080218
+      },
+      "model": "boomber:moar_fence/block/light_blue_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080219
+      },
+      "model": "boomber:moar_fence/block/light_blue_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080220
+      },
+      "model": "boomber:moar_fence/block/light_blue_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080224
+      },
+      "model": "boomber:moar_fence/block/yellow_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080225
+      },
+      "model": "boomber:moar_fence/block/yellow_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080226
+      },
+      "model": "boomber:moar_fence/block/yellow_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080227
+      },
+      "model": "boomber:moar_fence/block/yellow_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080231
+      },
+      "model": "boomber:moar_fence/block/lime_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080232
+      },
+      "model": "boomber:moar_fence/block/lime_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080233
+      },
+      "model": "boomber:moar_fence/block/lime_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080234
+      },
+      "model": "boomber:moar_fence/block/lime_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080238
+      },
+      "model": "boomber:moar_fence/block/pink_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080239
+      },
+      "model": "boomber:moar_fence/block/pink_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080240
+      },
+      "model": "boomber:moar_fence/block/pink_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080241
+      },
+      "model": "boomber:moar_fence/block/pink_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080245
+      },
+      "model": "boomber:moar_fence/block/gray_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080246
+      },
+      "model": "boomber:moar_fence/block/gray_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080247
+      },
+      "model": "boomber:moar_fence/block/gray_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080248
+      },
+      "model": "boomber:moar_fence/block/gray_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080252
+      },
+      "model": "boomber:moar_fence/block/light_gray_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080253
+      },
+      "model": "boomber:moar_fence/block/light_gray_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080254
+      },
+      "model": "boomber:moar_fence/block/light_gray_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080255
+      },
+      "model": "boomber:moar_fence/block/light_gray_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080259
+      },
+      "model": "boomber:moar_fence/block/cyan_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080260
+      },
+      "model": "boomber:moar_fence/block/cyan_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080261
+      },
+      "model": "boomber:moar_fence/block/cyan_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080262
+      },
+      "model": "boomber:moar_fence/block/cyan_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080266
+      },
+      "model": "boomber:moar_fence/block/blue_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080267
+      },
+      "model": "boomber:moar_fence/block/blue_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080268
+      },
+      "model": "boomber:moar_fence/block/blue_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080269
+      },
+      "model": "boomber:moar_fence/block/blue_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080273
+      },
+      "model": "boomber:moar_fence/block/purple_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080274
+      },
+      "model": "boomber:moar_fence/block/purple_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080275
+      },
+      "model": "boomber:moar_fence/block/purple_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080276
+      },
+      "model": "boomber:moar_fence/block/purple_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080280
+      },
+      "model": "boomber:moar_fence/block/brown_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080281
+      },
+      "model": "boomber:moar_fence/block/brown_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080282
+      },
+      "model": "boomber:moar_fence/block/brown_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080283
+      },
+      "model": "boomber:moar_fence/block/brown_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080287
+      },
+      "model": "boomber:moar_fence/block/green_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080288
+      },
+      "model": "boomber:moar_fence/block/green_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080289
+      },
+      "model": "boomber:moar_fence/block/green_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080290
+      },
+      "model": "boomber:moar_fence/block/green_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080294
+      },
+      "model": "boomber:moar_fence/block/red_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080295
+      },
+      "model": "boomber:moar_fence/block/red_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080296
+      },
+      "model": "boomber:moar_fence/block/red_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080297
+      },
+      "model": "boomber:moar_fence/block/red_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080301
+      },
+      "model": "boomber:moar_fence/block/black_terracotta/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080302
+      },
+      "model": "boomber:moar_fence/block/black_terracotta/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080303
+      },
+      "model": "boomber:moar_fence/block/black_terracotta/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080304
+      },
+      "model": "boomber:moar_fence/block/black_terracotta/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080308
+      },
+      "model": "boomber:moar_fence/block/white_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080309
+      },
+      "model": "boomber:moar_fence/block/white_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080310
+      },
+      "model": "boomber:moar_fence/block/white_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080311
+      },
+      "model": "boomber:moar_fence/block/white_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080315
+      },
+      "model": "boomber:moar_fence/block/orange_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080316
+      },
+      "model": "boomber:moar_fence/block/orange_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080317
+      },
+      "model": "boomber:moar_fence/block/orange_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080318
+      },
+      "model": "boomber:moar_fence/block/orange_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080322
+      },
+      "model": "boomber:moar_fence/block/magenta_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080323
+      },
+      "model": "boomber:moar_fence/block/magenta_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080324
+      },
+      "model": "boomber:moar_fence/block/magenta_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080325
+      },
+      "model": "boomber:moar_fence/block/magenta_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080329
+      },
+      "model": "boomber:moar_fence/block/light_blue_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080330
+      },
+      "model": "boomber:moar_fence/block/light_blue_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080331
+      },
+      "model": "boomber:moar_fence/block/light_blue_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080332
+      },
+      "model": "boomber:moar_fence/block/light_blue_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080336
+      },
+      "model": "boomber:moar_fence/block/yellow_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080337
+      },
+      "model": "boomber:moar_fence/block/yellow_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080338
+      },
+      "model": "boomber:moar_fence/block/yellow_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080339
+      },
+      "model": "boomber:moar_fence/block/yellow_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080343
+      },
+      "model": "boomber:moar_fence/block/lime_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080344
+      },
+      "model": "boomber:moar_fence/block/lime_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080345
+      },
+      "model": "boomber:moar_fence/block/lime_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080346
+      },
+      "model": "boomber:moar_fence/block/lime_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080350
+      },
+      "model": "boomber:moar_fence/block/pink_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080351
+      },
+      "model": "boomber:moar_fence/block/pink_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080352
+      },
+      "model": "boomber:moar_fence/block/pink_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080353
+      },
+      "model": "boomber:moar_fence/block/pink_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080357
+      },
+      "model": "boomber:moar_fence/block/gray_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080358
+      },
+      "model": "boomber:moar_fence/block/gray_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080359
+      },
+      "model": "boomber:moar_fence/block/gray_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080360
+      },
+      "model": "boomber:moar_fence/block/gray_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080364
+      },
+      "model": "boomber:moar_fence/block/light_gray_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080365
+      },
+      "model": "boomber:moar_fence/block/light_gray_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080366
+      },
+      "model": "boomber:moar_fence/block/light_gray_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080367
+      },
+      "model": "boomber:moar_fence/block/light_gray_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080371
+      },
+      "model": "boomber:moar_fence/block/cyan_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080372
+      },
+      "model": "boomber:moar_fence/block/cyan_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080373
+      },
+      "model": "boomber:moar_fence/block/cyan_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080374
+      },
+      "model": "boomber:moar_fence/block/cyan_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080378
+      },
+      "model": "boomber:moar_fence/block/blue_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080379
+      },
+      "model": "boomber:moar_fence/block/blue_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080380
+      },
+      "model": "boomber:moar_fence/block/blue_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080381
+      },
+      "model": "boomber:moar_fence/block/blue_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080385
+      },
+      "model": "boomber:moar_fence/block/purple_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080386
+      },
+      "model": "boomber:moar_fence/block/purple_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080387
+      },
+      "model": "boomber:moar_fence/block/purple_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080388
+      },
+      "model": "boomber:moar_fence/block/purple_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080392
+      },
+      "model": "boomber:moar_fence/block/brown_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080393
+      },
+      "model": "boomber:moar_fence/block/brown_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080394
+      },
+      "model": "boomber:moar_fence/block/brown_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080395
+      },
+      "model": "boomber:moar_fence/block/brown_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080399
+      },
+      "model": "boomber:moar_fence/block/green_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080400
+      },
+      "model": "boomber:moar_fence/block/green_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080401
+      },
+      "model": "boomber:moar_fence/block/green_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080402
+      },
+      "model": "boomber:moar_fence/block/green_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080406
+      },
+      "model": "boomber:moar_fence/block/red_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080407
+      },
+      "model": "boomber:moar_fence/block/red_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080408
+      },
+      "model": "boomber:moar_fence/block/red_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080409
+      },
+      "model": "boomber:moar_fence/block/red_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080413
+      },
+      "model": "boomber:moar_fence/block/black_wool/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080414
+      },
+      "model": "boomber:moar_fence/block/black_wool/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080415
+      },
+      "model": "boomber:moar_fence/block/black_wool/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080416
+      },
+      "model": "boomber:moar_fence/block/black_wool/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080420
+      },
+      "model": "boomber:moar_fence/block/cobblestone/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080421
+      },
+      "model": "boomber:moar_fence/block/cobblestone/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080422
+      },
+      "model": "boomber:moar_fence/block/cobblestone/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080423
+      },
+      "model": "boomber:moar_fence/block/cobblestone/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080427
+      },
+      "model": "boomber:moar_fence/block/dirt/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080428
+      },
+      "model": "boomber:moar_fence/block/dirt/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080429
+      },
+      "model": "boomber:moar_fence/block/dirt/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080430
+      },
+      "model": "boomber:moar_fence/block/dirt/fence_gate/close_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080434
+      },
+      "model": "boomber:moar_fence/block/coarse_dirt/fence_gate/open"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080435
+      },
+      "model": "boomber:moar_fence/block/coarse_dirt/fence_gate/close"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080436
+      },
+      "model": "boomber:moar_fence/block/coarse_dirt/fence_gate/open_wall"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080437
+      },
+      "model": "boomber:moar_fence/block/coarse_dirt/fence_gate/close_wall"
+    }
+  ]
+}

@@ -1,20 +1,19 @@
 {
 	"type": "crafting_shaped",
-	"group": "custom_wall",
 	"pattern": [
-		"#S#",
-		"#S#"
+		"@#@",
+		"@#@"
 	],
 	"key": {
-		"#": {
-			"item": "minecraft:coal_block"
+		"@": {
+			"tag": "boomber:moar_fence/walls"
 		},
-		"S": {
-			"tag": "boomber:moar_fence/wall"
+		"#": {
+			"item": "minecraft:coal"
 		}
 	},
 	"result": {
-		"item": "minecraft:mossy_cobblestone_wall",
-		"count": 2
+		"item": "minecraft:wall",
+		"count": 3
 	}
 }

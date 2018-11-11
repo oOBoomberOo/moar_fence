@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:item",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Red Wool Fence Gate",
+								"italic": false
+							}
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{"text":"Model: Red Wool", "color":"gray", "italic": false}
+							]
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:8080406, ucit:{ id:\"custom_fence_gate\", from:\"boomber:moar_fence\", author:[\"boomber\"], boomber:{ moar_fence:{ id:\"red_wool\", model_id: 8080406}}}}"
+						}
+					],
+					"name": "minecraft:oak_fence_gate"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,383 @@
+{
+  "parent": "block/oak_fence_gate",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 8080000
+      },
+      "model": "boomber:moar_fence/item/oak_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080007
+      },
+      "model": "boomber:moar_fence/item/spruce_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080014
+      },
+      "model": "boomber:moar_fence/item/birch_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080021
+      },
+      "model": "boomber:moar_fence/item/jungle_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080028
+      },
+      "model": "boomber:moar_fence/item/acacia_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080035
+      },
+      "model": "boomber:moar_fence/item/dark_oak_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080042
+      },
+      "model": "boomber:moar_fence/item/stripped_oak_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080049
+      },
+      "model": "boomber:moar_fence/item/stripped_spruce_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080056
+      },
+      "model": "boomber:moar_fence/item/stripped_birch_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080063
+      },
+      "model": "boomber:moar_fence/item/stripped_jungle_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080070
+      },
+      "model": "boomber:moar_fence/item/stripped_acacia_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080077
+      },
+      "model": "boomber:moar_fence/item/stripped_dark_oak_log/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080084
+      },
+      "model": "boomber:moar_fence/item/coal_block/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080091
+      },
+      "model": "boomber:moar_fence/item/iron_block/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080098
+      },
+      "model": "boomber:moar_fence/item/gold_block/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080105
+      },
+      "model": "boomber:moar_fence/item/redstone_block/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080112
+      },
+      "model": "boomber:moar_fence/item/diamond_block/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080119
+      },
+      "model": "boomber:moar_fence/item/emerald_block/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080126
+      },
+      "model": "boomber:moar_fence/item/prismarine/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080133
+      },
+      "model": "boomber:moar_fence/item/prismarine_bricks/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080140
+      },
+      "model": "boomber:moar_fence/item/dark_prismarine/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080147
+      },
+      "model": "boomber:moar_fence/item/sandstone/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080154
+      },
+      "model": "boomber:moar_fence/item/cut_sandstone/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080161
+      },
+      "model": "boomber:moar_fence/item/chiseled_sandstone/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080168
+      },
+      "model": "boomber:moar_fence/item/red_sandstone/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080175
+      },
+      "model": "boomber:moar_fence/item/cut_red_sandstone/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080182
+      },
+      "model": "boomber:moar_fence/item/chiseled_red_sandstone/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080189
+      },
+      "model": "boomber:moar_fence/item/terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080196
+      },
+      "model": "boomber:moar_fence/item/white_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080203
+      },
+      "model": "boomber:moar_fence/item/orange_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080210
+      },
+      "model": "boomber:moar_fence/item/magenta_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080217
+      },
+      "model": "boomber:moar_fence/item/light_blue_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080224
+      },
+      "model": "boomber:moar_fence/item/yellow_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080231
+      },
+      "model": "boomber:moar_fence/item/lime_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080238
+      },
+      "model": "boomber:moar_fence/item/pink_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080245
+      },
+      "model": "boomber:moar_fence/item/gray_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080252
+      },
+      "model": "boomber:moar_fence/item/light_gray_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080259
+      },
+      "model": "boomber:moar_fence/item/cyan_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080266
+      },
+      "model": "boomber:moar_fence/item/blue_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080273
+      },
+      "model": "boomber:moar_fence/item/purple_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080280
+      },
+      "model": "boomber:moar_fence/item/brown_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080287
+      },
+      "model": "boomber:moar_fence/item/green_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080294
+      },
+      "model": "boomber:moar_fence/item/red_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080301
+      },
+      "model": "boomber:moar_fence/item/black_terracotta/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080308
+      },
+      "model": "boomber:moar_fence/item/white_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080315
+      },
+      "model": "boomber:moar_fence/item/orange_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080322
+      },
+      "model": "boomber:moar_fence/item/magenta_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080329
+      },
+      "model": "boomber:moar_fence/item/light_blue_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080336
+      },
+      "model": "boomber:moar_fence/item/yellow_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080343
+      },
+      "model": "boomber:moar_fence/item/lime_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080350
+      },
+      "model": "boomber:moar_fence/item/pink_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080357
+      },
+      "model": "boomber:moar_fence/item/gray_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080364
+      },
+      "model": "boomber:moar_fence/item/light_gray_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080371
+      },
+      "model": "boomber:moar_fence/item/cyan_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080378
+      },
+      "model": "boomber:moar_fence/item/blue_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080385
+      },
+      "model": "boomber:moar_fence/item/purple_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080392
+      },
+      "model": "boomber:moar_fence/item/brown_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080399
+      },
+      "model": "boomber:moar_fence/item/green_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080406
+      },
+      "model": "boomber:moar_fence/item/red_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080413
+      },
+      "model": "boomber:moar_fence/item/black_wool/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080420
+      },
+      "model": "boomber:moar_fence/item/cobblestone/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080427
+      },
+      "model": "boomber:moar_fence/item/dirt/fence_gate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8080434
+      },
+      "model": "boomber:moar_fence/item/coarse_dirt/fence_gate"
+    }
+  ]
+}

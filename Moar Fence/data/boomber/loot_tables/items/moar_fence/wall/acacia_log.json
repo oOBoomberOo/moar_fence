@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:item",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Acacia Log Wall",
+								"italic": false
+							}
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{"text":"Model: Acacia Log", "color":"gray", "italic": false}
+							]
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:8080028, ucit:{ id:\"custom_wall\", from:\"boomber:moar_fence\", author:[\"boomber\"], boomber:{ moar_fence:{ id:\"acacia_log\", model_id: 8080028}}}}"
+						}
+					],
+					"name": "minecraft:cobblestone_wall"
+				}
+			]
+		}
+	]
+}

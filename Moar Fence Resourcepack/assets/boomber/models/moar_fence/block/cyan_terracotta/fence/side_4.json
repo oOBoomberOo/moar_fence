@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/fence/side_4",
+    "textures": {
+        "texture": "minecraft:block/cyan_terracotta"
+    }
+}

@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:item",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Cut Red Sandstone Fence Gate",
+								"italic": false
+							}
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{"text":"Model: Cut Red Sandstone", "color":"gray", "italic": false}
+							]
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:8080175, ucit:{ id:\"custom_fence_gate\", from:\"boomber:moar_fence\", author:[\"boomber\"], boomber:{ moar_fence:{ id:\"cut_red_sandstone\", model_id: 8080175}}}}"
+						}
+					],
+					"name": "minecraft:oak_fence_gate"
+				}
+			]
+		}
+	]
+}

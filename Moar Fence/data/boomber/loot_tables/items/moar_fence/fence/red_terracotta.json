@@ -1,0 +1,33 @@
+{
+	"type": "minecraft:item",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Red Terracotta Fence",
+								"italic": false
+							}
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{"text":"Model: Red Terracotta", "color":"gray", "italic": false}
+							]
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:8080294, ucit:{ id:\"custom_fence\", from:\"boomber:moar_fence\", author:[\"boomber\"], boomber:{ moar_fence:{ id:\"red_terracotta\", model_id: 8080294}}}}"
+						}
+					],
+					"name": "minecraft:oak_fence"
+				}
+			]
+		}
+	]
+}

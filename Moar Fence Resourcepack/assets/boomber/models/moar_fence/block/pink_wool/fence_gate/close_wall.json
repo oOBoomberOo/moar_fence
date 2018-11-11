@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/fence_gate/close_wall",
+    "textures": {
+        "texture": "minecraft:block/pink_wool"
+    }
+}

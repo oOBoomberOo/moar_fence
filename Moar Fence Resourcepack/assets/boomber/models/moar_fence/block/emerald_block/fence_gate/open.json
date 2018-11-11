@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/fence_gate/open",
+    "textures": {
+        "texture": "minecraft:block/emerald_block"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/wall/side_4",
+    "textures": {
+        "texture": "minecraft:block/iron_block"
+    }
+}

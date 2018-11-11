@@ -4,8 +4,8 @@
 			"trigger": "minecraft:placed_block",
 			"conditions": {
 				"item": {
-					"item": "minecraft:nether_brick_fence",
-					"nbt": "{boomber:{moar_fence_id:\"jungle_log\"}}"
+					"item": "minecraft:oak_fence",
+					"nbt": "{ucit:{ id:\"custom_fence\", boomber:{ moar_fence:{ id:\"jungle_log\"}}}}"
 				}
 			}
 		}

@@ -1,6 +1,0 @@
-{
-    "parent": "boomber:block/fence/side_4",
-    "textures": {
-        "texture": "block/dark_prismarine"
-    }
-}

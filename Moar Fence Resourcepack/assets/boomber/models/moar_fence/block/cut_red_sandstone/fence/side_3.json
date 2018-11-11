@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/fence/side_3",
+    "textures": {
+        "texture": "minecraft:block/cut_red_sandstone"
+    }
+}

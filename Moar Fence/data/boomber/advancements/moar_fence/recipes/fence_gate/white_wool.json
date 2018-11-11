@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "boomber:moar_fence/fence_gate/white_wool"
+			}
+		}
+	},
+	"parent": "boomber:moar_fence/recipes/root",
+	"rewards": {
+		"function": "boomber:moar_fence/recipes/fence_gate/white_wool"
+	}
+}

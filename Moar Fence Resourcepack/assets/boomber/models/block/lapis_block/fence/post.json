@@ -1,6 +1,0 @@
-{
-    "parent": "boomber:block/fence/post",
-    "textures": {
-        "texture": "block/lapis_block"
-    }
-}

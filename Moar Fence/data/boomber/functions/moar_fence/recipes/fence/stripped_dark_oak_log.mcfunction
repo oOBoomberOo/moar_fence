@@ -1,4 +1,6 @@
-clear @s oak_fence 2
-give @s nether_brick_fence{boomber:{moar_fence_id:"stripped_dark_oak_log",moar_fence:["fence"]},display:{Name:"{\"text\":\"Stripped Dark Oak Log Fence\",\"italic\":\"false\"}", Lore:["§7Model: Stripped Dark Oak Log"]}} 2
+clear @s oak_fence 3
+loot give @s loot boomber:items/moar_fence/fence/stripped_dark_oak_log
+loot give @s loot boomber:items/moar_fence/fence/stripped_dark_oak_log
+loot give @s loot boomber:items/moar_fence/fence/stripped_dark_oak_log
 advancement revoke @s from boomber:moar_fence/recipes/root
-execute as @s run function boomber:moar_fence/recipes/clear
+recipe take @s boomber:moar_fence/fence/stripped_dark_oak_log

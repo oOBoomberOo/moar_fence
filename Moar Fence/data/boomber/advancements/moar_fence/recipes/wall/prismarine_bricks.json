@@ -4,7 +4,6 @@
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
 				"recipe": "boomber:moar_fence/wall/prismarine_bricks"
-				
 			}
 		}
 	},

@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"place": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:cobblestone_wall",
+					"nbt": "{ucit:{ id:\"custom_wall\", boomber:{ moar_fence:{ id:\"lime_terracotta\"}}}}"
+				}
+			}
+		}
+	},
+	"parent": "boomber:moar_fence/place/root",
+	"rewards": {
+		"function": "boomber:moar_fence/place/place_wall"
+	}
+}

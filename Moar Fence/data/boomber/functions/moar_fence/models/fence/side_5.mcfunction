@@ -1,2 +1,0 @@
-execute as @s if block ~ ~ ~ nether_brick_fence store success score @s bb.success run function boomber:moar_fence/models/fence/four_side
-execute as @s if block ~ ~ ~ nether_brick_fence run data merge entity @s {Pose:{Head:[0.0f,0.0f]}}

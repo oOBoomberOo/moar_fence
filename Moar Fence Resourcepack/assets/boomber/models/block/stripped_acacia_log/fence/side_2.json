@@ -1,6 +1,0 @@
-{
-    "parent": "boomber:block/fence/side_2",
-    "textures": {
-        "texture": "block/stripped_acacia_log"
-    }
-}

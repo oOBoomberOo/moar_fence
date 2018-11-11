@@ -4,7 +4,6 @@
 			"trigger": "minecraft:recipe_unlocked",
 			"conditions": {
 				"recipe": "boomber:moar_fence/fence_gate/iron_block"
-				
 			}
 		}
 	},

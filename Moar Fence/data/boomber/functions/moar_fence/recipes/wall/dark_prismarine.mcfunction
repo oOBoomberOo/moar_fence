@@ -1,4 +1,6 @@
-clear @s mossy_cobblestone_wall 2
-give @s cobblestone_wall{boomber:{moar_fence_id:"dark_prismarine_wall",moar_fence:["wall"]},display:{Name:"{\"text\":\"Dark Prismarine Wall\",\"italic\":\"false\"}", Lore:["§7Model: Dark Prismarine"]}} 2
+clear @s cobblestone_wall 3
+loot give @s loot boomber:items/moar_fence/wall/dark_prismarine
+loot give @s loot boomber:items/moar_fence/wall/dark_prismarine
+loot give @s loot boomber:items/moar_fence/wall/dark_prismarine
 advancement revoke @s from boomber:moar_fence/recipes/root
-execute as @s run function boomber:moar_fence/recipes/clear
+recipe take @s boomber:moar_fence/wall/dark_prismarine

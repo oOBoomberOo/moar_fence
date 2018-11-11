@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/item/fence",
+    "textures": {
+        "texture": "minecraft:block/cyan_wool"
+    }
+}

@@ -1,20 +1,19 @@
 {
 	"type": "crafting_shaped",
-	"group": "custom_fence",
 	"pattern": [
-		"#S#",
-		"#S#"
+		"@#@",
+		"@#@"
 	],
 	"key": {
+		"@": {
+			"tag": "boomber:moar_fence/fences"
+		},
 		"#": {
 			"item": "minecraft:stripped_dark_oak_log"
-		},
-		"S": {
-			"tag": "boomber:moar_fence/fence"
 		}
 	},
 	"result": {
 		"item": "minecraft:oak_fence",
-		"count": 2
+		"count": 3
 	}
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/wall/side_5",
+    "textures": {
+        "texture": "minecraft:block/blue_wool"
+    }
+}

@@ -5,7 +5,7 @@
 			"conditions": {
 				"item": {
 					"item": "minecraft:cobblestone_wall",
-					"nbt": "{boomber:{moar_fence_id:\"stripped_jungle_log_wall\"}}"
+					"nbt": "{ucit:{ id:\"custom_wall\", boomber:{ moar_fence:{ id:\"stripped_jungle_log\"}}}}"
 				}
 			}
 		}

@@ -1,0 +1,17 @@
+{
+	"criteria": {
+		"place": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:oak_fence",
+					"nbt": "{ucit:{ id:\"custom_fence\", boomber:{ moar_fence:{ id:\"chiseled_sandstone\"}}}}"
+				}
+			}
+		}
+	},
+	"parent": "boomber:moar_fence/place/root",
+	"rewards": {
+		"function": "boomber:moar_fence/place/place_fence"
+	}
+}

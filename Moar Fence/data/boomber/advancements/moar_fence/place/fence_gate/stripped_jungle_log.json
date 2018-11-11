@@ -5,7 +5,7 @@
 			"conditions": {
 				"item": {
 					"item": "minecraft:oak_fence_gate",
-					"nbt": "{boomber:{moar_fence_id:\"stripped_jungle_log_fence_gate\"}}"
+					"nbt": "{ucit:{ id:\"custom_fence_gate\", boomber:{ moar_fence:{ id:\"stripped_jungle_log\"}}}}"
 				}
 			}
 		}

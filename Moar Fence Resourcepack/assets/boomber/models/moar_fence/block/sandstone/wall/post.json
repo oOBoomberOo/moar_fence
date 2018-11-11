@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/wall/post",
+    "textures": {
+        "texture": "minecraft:block/sandstone"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/fence/side_5",
+    "textures": {
+        "texture": "minecraft:block/prismarine_bricks"
+    }
+}

@@ -1,6 +1,0 @@
-{
-    "parent": "boomber:block/fence_gate/close",
-    "textures": {
-        "texture": "block/red_nether_bricks"
-    }
-}

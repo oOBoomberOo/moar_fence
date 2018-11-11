@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/wall/side_2_up",
+    "textures": {
+        "texture": "minecraft:block/birch_log"
+    }
+}

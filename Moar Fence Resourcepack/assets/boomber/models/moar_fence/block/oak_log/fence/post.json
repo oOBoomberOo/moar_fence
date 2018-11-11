@@ -1,0 +1,6 @@
+{
+    "parent": "boomber:moar_fence/models/block/fence/post",
+    "textures": {
+        "texture": "minecraft:block/oak_log"
+    }
+}
